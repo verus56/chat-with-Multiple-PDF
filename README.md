@@ -1,6 +1,4 @@
-Here's an updated version of your README with the addition of the test link:
 
----
 
 # PDF Chat Application 📚
 
@@ -130,6 +128,4 @@ v56
 - Streamlit for the amazing web framework
 - LangChain for the conversational AI framework
 
----
 
-Let me know if you need further modifications!
