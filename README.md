@@ -1,3 +1,6 @@
+Here's an updated version of your README with the addition of the test link:
+
+---
 
 # PDF Chat Application 📚
 
@@ -56,6 +59,10 @@ MISTRALAI_API_KEY=your_api_key_here
 streamlit run app.py
 ```
 3. Open your browser and go to `http://localhost:8501`
+
+### **Test Online**
+
+You can test the application here: [Chat with Multiple PDFs](https://chatwithmultiple-pdfs.streamlit.app/)
 
 ## 📖 How to Use
 
@@ -123,3 +130,6 @@ v56
 - Streamlit for the amazing web framework
 - LangChain for the conversational AI framework
 
+---
+
+Let me know if you need further modifications!
